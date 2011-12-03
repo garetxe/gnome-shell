@@ -1,1 +1,4 @@
-Make Alt-Tab window-based, rather than app based. This is a simple modification of windows-alt-tab (by tglman) adding support for windows in other workspaces.
+Make Alt-Tab window-based, rather than app based.
+
+This is a simple modification of windows-alt-tab (by tglman)
+adding support for windows in other workspaces.
